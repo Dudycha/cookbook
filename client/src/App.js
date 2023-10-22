@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const intro = {
-  introTxt: "... ? kuchařka nebo tak něco ..",
+  introTxt: "... ? kuchařka nebo tak něco ...",
 };
 
 const cookbookList = [
